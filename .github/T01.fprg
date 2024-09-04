@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="USER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:11:24 PM"/>
+        <attribute name="created" value="VVNFUjtMQVBUT1AtVUZVQUEzSUo7MjAyNC0wOS0wNDswODoxMTo1MCBQTTsyNjc2"/>
+        <attribute name="edited" value="VVNFUjtMQVBUT1AtVUZVQUEzSUo7MjAyNC0wOS0wNDswOToxMToyNCBQTTsxOzI3ODY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="&quot;Nama Saya &quot;" newline="True"/>
+            <declare name="bilangan" type="Integer" array="False" size=""/>
+            <input variable="bilangan"/>
+            <output expression="&quot;bilangan genap &quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
